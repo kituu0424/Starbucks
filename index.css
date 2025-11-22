@@ -109,7 +109,7 @@
   
 }
 #head_layout .main-menu .item:hover .item_name{
-  background-color: #2c2a29;
+  background-color: #2a2c29;
   color: #669900;
 }
 #head_layout .main-menu .item .item_contents{
@@ -122,7 +122,7 @@
   display: block;
 }
 #head_layout .main-menu .item .item_contents .contents_menu{
-  background-color: black;
+  background-color: #2a2c29;
   /*height: 200px; */
 }
 #head_layout .main-menu .item .item_contents .contents_menu > ul{
